@@ -82,7 +82,7 @@ const categories = [
 ];
 
 // State management
-let currentLocation = "New York, NY";
+let currentLocation = "SiddeshwarExpress, Train.NO:8659633";
 let searchQuery = "";
 let selectedCategory = "";
 let cart = [];
